@@ -1,8 +1,8 @@
 name: flutter_locations_distance
 description: A Flutter plugin which provides the distance between two locations
 version: 0.0.1
-author:
-homepage:
+author: Eimji <no_mail@eimji.io>
+homepage: https://github.com/Eimji/flutter_locations_distance
 
 environment:
   sdk: ">=2.0.0-dev.68.0 <3.0.0"
