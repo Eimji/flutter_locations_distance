@@ -8,7 +8,7 @@ A Flutter package which provides the distance between two locations
 * Add this to your package's pubspec.yaml file:
 ```
 dependencies:
-  flutter_locations_distance: "^0.0.1"
+  flutter_locations_distance:
 ```
 * You can install packages from the command line:
   with Flutter:
