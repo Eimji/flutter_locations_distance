@@ -3,7 +3,7 @@
 #
 Pod::Spec.new do |s|
   s.name             = 'flutter_locations_distance'
-  s.version          = '0.0.1'
+  s.version          = '0.0.2'
   s.summary          = 'A Flutter package which provides the distance between two locations'
   s.description      = <<-DESC
 A Flutter package which provides the distance between two locations
