@@ -4,4 +4,8 @@
 
 ## 0.0.2
 
-* Fix erros due to the command "packages pub publish --dry-run" which gives wrong suggestions
+* Fix errors due to the command "packages pub publish --dry-run" which gives wrong suggestions
+
+## 0.0.3
+
+* Migration to AndroidX
